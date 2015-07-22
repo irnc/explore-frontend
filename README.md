@@ -11,6 +11,7 @@
 
 ### File watching
 
+* https://facebook.github.io/watchman/
 * https://github.com/amasad/sane
   * https://github.com/krisselden/broccoli-sane-watcher (used by ember-cli, see [reasoning](https://github.com/ember-cli/ember-cli/issues/4503))
 * https://github.com/paulmillr/chokidar
