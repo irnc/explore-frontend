@@ -6,6 +6,10 @@
 
 ## CSS
 
+### Autoprefixer
+
+* https://github.com/kimroen/ember-cli-autoprefixer
+
 ### SASS
 
 * https://github.com/irnc/explore-sass
