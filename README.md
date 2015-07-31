@@ -6,6 +6,12 @@
 
 ## CSS
 
+https://github.com/irnc/explore-css
+
+### Selectors
+
+_Explore [CSS selectors](https://github.com/irnc/explore-css/blob/master/selectors/README.md)._
+
 ### Autoprefixer
 
 * https://github.com/kimroen/ember-cli-autoprefixer
