@@ -18,7 +18,21 @@ _For a bigger picture [explore web development](https://github.com/irnc/explore-
 
     Позволяет на практике познакомиться с концепциями различных фреймворков и на известном примере рассмотреть различия и сходства.
 
+## Front-end Architecture
+
+> Front-end Architecture is a collection of tools and processes that aims to improve the quality of our front-end code while creating a more efficient and sustainable workflow.
+
+> --- _See https://github.com/micahgodbolt/front-end-architecture for more resources._
+
+## Standard bodies
+
+* https://whatwg.org/specs/
+* http://www.w3.org/
+* http://www.ecma-international.org/publications/standards/Ecma-262.htm
+
 ## HTML
+
+* https://html.spec.whatwg.org/multipage/
 
 ## CSS
 
