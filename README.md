@@ -2,6 +2,19 @@
 
 * https://en.wikipedia.org/wiki/Front_end_development
 
+## Введение
+
+1.  Интерактивные курсы codecademy: [HTML & CSS](https://www.codecademy.com/tracks/web), [JavaScript](https://www.codecademy.com/tracks/javascript)
+
+    Быстро и легко попробовать на практике, для тех кто не любит много читать и смотреть скучные видео-уроки.
+
+2.  [Первая Школа разработки интерфейсов в Москве](https://academy.yandex.ru/events/shri/msk-2012/), бесплатно доступно видео всех лекций, курс читают сотрудники Яндекс
+ 
+    Очень хороший курс, не только о frontend, но и о специализации и общем цикле разработки. Рекомендуется для всех входящих в отрасль веб-разработки.
+
+
+
+
 ## HTML
 
 ## CSS
