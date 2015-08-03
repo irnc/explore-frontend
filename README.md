@@ -4,7 +4,7 @@ Explore [front end development](https://en.wikipedia.org/wiki/Front_end_developm
 
 _For a bigger picture [explore web development](https://github.com/irnc/explore-web-dev)._
 
-## Введение
+## Introduction
 
 1.  Интерактивные курсы codecademy: [HTML & CSS](https://www.codecademy.com/tracks/web), [JavaScript](https://www.codecademy.com/tracks/javascript)
 
