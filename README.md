@@ -1,6 +1,8 @@
 # explore-frontend
 
-* https://en.wikipedia.org/wiki/Front_end_development
+Explore [front end development](https://en.wikipedia.org/wiki/Front_end_development), _the Web_ as seen by users.
+
+_For a bigger picture [explore web development](https://github.com/irnc/explore-web-dev)._
 
 ## Введение
 
@@ -11,9 +13,6 @@
 2.  [Первая Школа разработки интерфейсов в Москве](https://academy.yandex.ru/events/shri/msk-2012/), бесплатно доступно видео всех лекций, курс читают сотрудники Яндекс
  
     Очень хороший курс, не только о frontend, но и о специализации и общем цикле разработки. Рекомендуется для всех входящих в отрасль веб-разработки.
-
-
-
 
 ## HTML
 
