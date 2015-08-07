@@ -55,6 +55,10 @@ _Explore [CSS selectors](https://github.com/irnc/explore-css/blob/master/selecto
 * http://getbem.com/naming/
 * https://css-tricks.com/snippets/sass/bem-mixins/
 
+## Using BEM methology and Bootsrap
+
+* [`@extend` Bootstrap selectors](https://medium.com/@andersonorui_/bem-sass-and-bootstrap-9f89dc07d20f) and don't reference Bootstrap classes in markup.
+
 ## Build tools
 
 ### File watching
